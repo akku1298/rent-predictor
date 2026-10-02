@@ -1,0 +1,541 @@
+state,city_tier,area_sqft,bedrooms,bathrooms,furnishing,rent
+Andhra Pradesh,Metro,450,1,1,Fully-Furnished,14593
+Andhra Pradesh,Urban,750,2,1,Fully-Furnished,18209
+Andhra Pradesh,Metro,1600,4,2,Unfurnished,40501
+Andhra Pradesh,Metro,750,2,1,Fully-Furnished,23282
+Andhra Pradesh,Metro,1400,4,1,Fully-Furnished,40590
+Andhra Pradesh,Rural,750,2,2,Fully-Furnished,13169
+Andhra Pradesh,Metro,650,2,2,Semi-Furnished,18279
+Andhra Pradesh,Urban,750,2,2,Unfurnished,14689
+Andhra Pradesh,Rural,550,1,1,Semi-Furnished,9175
+Andhra Pradesh,Semi-Urban,1600,4,2,Unfurnished,27534
+Andhra Pradesh,Rural,1400,4,1,Semi-Furnished,19781
+Andhra Pradesh,Semi-Urban,1600,4,2,Fully-Furnished,29933
+Andhra Pradesh,Metro,450,1,1,Fully-Furnished,14496
+Andhra Pradesh,Semi-Urban,550,1,1,Unfurnished,9694
+Andhra Pradesh,Metro,1050,3,2,Semi-Furnished,29371
+Arunachal Pradesh,Semi-Urban,650,2,2,Semi-Furnished,9689
+Arunachal Pradesh,Semi-Urban,550,1,1,Fully-Furnished,10520
+Arunachal Pradesh,Urban,1400,4,1,Unfurnished,22146
+Arunachal Pradesh,Rural,850,2,2,Unfurnished,9032
+Arunachal Pradesh,Semi-Urban,450,1,1,Unfurnished,6363
+Arunachal Pradesh,Metro,950,2,2,Semi-Furnished,18690
+Arunachal Pradesh,Urban,1600,4,2,Unfurnished,25142
+Arunachal Pradesh,Rural,1050,3,2,Unfurnished,10732
+Arunachal Pradesh,Urban,750,2,2,Fully-Furnished,14788
+Arunachal Pradesh,Rural,1600,4,2,Semi-Furnished,17429
+Arunachal Pradesh,Urban,1400,4,2,Unfurnished,22747
+Arunachal Pradesh,Metro,550,1,1,Unfurnished,10580
+Arunachal Pradesh,Urban,1050,3,3,Unfurnished,16438
+Arunachal Pradesh,Rural,1600,4,2,Fully-Furnished,19494
+Arunachal Pradesh,Metro,550,1,1,Fully-Furnished,14607
+Assam,Semi-Urban,950,2,1,Semi-Furnished,14030
+Assam,Urban,1200,3,1,Fully-Furnished,24093
+Assam,Semi-Urban,1400,4,1,Fully-Furnished,24049
+Assam,Metro,850,2,2,Fully-Furnished,20377
+Assam,Urban,950,2,1,Fully-Furnished,19752
+Assam,Metro,1600,4,2,Semi-Furnished,33659
+Assam,Metro,950,2,2,Unfurnished,18408
+Assam,Urban,1600,4,1,Unfurnished,26898
+Assam,Rural,550,1,1,Fully-Furnished,9688
+Assam,Urban,650,2,2,Fully-Furnished,13938
+Assam,Semi-Urban,1400,4,3,Semi-Furnished,22155
+Assam,Urban,1400,4,1,Fully-Furnished,26738
+Assam,Rural,950,2,2,Fully-Furnished,13404
+Assam,Metro,750,2,1,Unfurnished,15342
+Assam,Metro,1600,4,3,Unfurnished,33325
+Bihar,Urban,450,1,1,Unfurnished,6849
+Bihar,Metro,750,2,1,Unfurnished,14460
+Bihar,Semi-Urban,550,1,1,Fully-Furnished,9267
+Bihar,Semi-Urban,1200,3,1,Fully-Furnished,17290
+Bihar,Rural,750,2,2,Semi-Furnished,8289
+Bihar,Metro,550,1,1,Fully-Furnished,12962
+Bihar,Semi-Urban,1050,3,2,Semi-Furnished,15349
+Bihar,Metro,550,1,1,Unfurnished,9404
+Bihar,Semi-Urban,550,1,1,Unfurnished,5672
+Bihar,Urban,1400,4,2,Unfurnished,20664
+Bihar,Urban,850,2,2,Unfurnished,12990
+Bihar,Metro,1200,3,3,Unfurnished,20823
+Bihar,Metro,550,1,1,Unfurnished,8920
+Bihar,Rural,1200,3,2,Unfurnished,12410
+Bihar,Rural,450,1,1,Unfurnished,4016
+Chhattisgarh,Metro,1050,3,2,Semi-Furnished,21829
+Chhattisgarh,Rural,1400,4,2,Unfurnished,14308
+Chhattisgarh,Semi-Urban,750,2,1,Fully-Furnished,13806
+Chhattisgarh,Metro,950,2,1,Unfurnished,18251
+Chhattisgarh,Rural,1400,4,3,Unfurnished,14036
+Chhattisgarh,Metro,650,2,1,Fully-Furnished,15624
+Chhattisgarh,Urban,1050,3,1,Fully-Furnished,19654
+Chhattisgarh,Metro,1600,4,1,Semi-Furnished,32886
+Chhattisgarh,Semi-Urban,850,2,1,Fully-Furnished,14806
+Chhattisgarh,Semi-Urban,750,2,2,Semi-Furnished,10568
+Chhattisgarh,Semi-Urban,1200,3,2,Unfurnished,14499
+Chhattisgarh,Rural,1600,4,3,Unfurnished,15630
+Chhattisgarh,Urban,1400,4,2,Unfurnished,23111
+Chhattisgarh,Semi-Urban,550,1,1,Unfurnished,6476
+Chhattisgarh,Semi-Urban,650,2,2,Fully-Furnished,12700
+Delhi,Semi-Urban,1600,4,3,Unfurnished,53007
+Delhi,Semi-Urban,550,1,1,Unfurnished,17261
+Delhi,Metro,550,1,1,Fully-Furnished,31803
+Delhi,Urban,850,2,2,Fully-Furnished,37231
+Delhi,Semi-Urban,750,2,2,Fully-Furnished,28300
+Delhi,Semi-Urban,450,1,1,Unfurnished,14979
+Delhi,Rural,850,2,1,Unfurnished,21063
+Delhi,Urban,850,2,1,Fully-Furnished,37704
+Delhi,Rural,1400,4,1,Unfurnished,35074
+Delhi,Urban,1400,4,1,Semi-Furnished,58892
+Delhi,Urban,1050,3,1,Unfurnished,42531
+Delhi,Semi-Urban,450,1,1,Semi-Furnished,15610
+Delhi,Urban,550,1,1,Semi-Furnished,23997
+Delhi,Rural,1600,4,1,Unfurnished,41250
+Delhi,Urban,650,2,2,Unfurnished,26067
+Goa,Semi-Urban,1050,3,1,Semi-Furnished,30706
+Goa,Metro,1050,3,1,Semi-Furnished,47635
+Goa,Urban,1200,3,2,Semi-Furnished,43580
+Goa,Urban,750,2,1,Fully-Furnished,28895
+Goa,Rural,950,2,2,Unfurnished,21220
+Goa,Semi-Urban,950,2,2,Semi-Furnished,28211
+Goa,Semi-Urban,450,1,1,Unfurnished,13316
+Goa,Semi-Urban,650,2,2,Semi-Furnished,19218
+Goa,Metro,1600,4,2,Semi-Furnished,72552
+Goa,Semi-Urban,1050,3,3,Fully-Furnished,32616
+Goa,Rural,1600,4,1,Semi-Furnished,35310
+Goa,Rural,450,1,1,Fully-Furnished,14035
+Goa,Urban,950,2,2,Unfurnished,33343
+Goa,Semi-Urban,1600,4,2,Fully-Furnished,49196
+Goa,Metro,850,2,2,Semi-Furnished,39225
+Gujarat,Rural,950,2,2,Fully-Furnished,16505
+Gujarat,Urban,750,2,2,Fully-Furnished,21425
+Gujarat,Rural,650,2,2,Fully-Furnished,12916
+Gujarat,Rural,1400,4,1,Semi-Furnished,21887
+Gujarat,Urban,1050,3,3,Fully-Furnished,27840
+Gujarat,Semi-Urban,1200,3,2,Semi-Furnished,24083
+Gujarat,Urban,1400,4,2,Fully-Furnished,34847
+Gujarat,Metro,850,2,2,Fully-Furnished,27896
+Gujarat,Semi-Urban,550,1,1,Unfurnished,10177
+Gujarat,Semi-Urban,750,2,1,Unfurnished,13050
+Gujarat,Metro,750,2,2,Fully-Furnished,25740
+Gujarat,Metro,1200,3,2,Fully-Furnished,37878
+Gujarat,Urban,1050,3,2,Semi-Furnished,24999
+Gujarat,Urban,450,1,1,Unfurnished,10594
+Gujarat,Rural,750,2,1,Fully-Furnished,14560
+Haryana,Rural,450,1,1,Fully-Furnished,9950
+Haryana,Metro,1200,3,1,Semi-Furnished,39187
+Haryana,Semi-Urban,1200,3,3,Fully-Furnished,28446
+Haryana,Rural,1400,4,2,Unfurnished,23003
+Haryana,Rural,1200,3,2,Unfurnished,19560
+Haryana,Semi-Urban,1400,4,2,Fully-Furnished,31629
+Haryana,Semi-Urban,1200,3,1,Fully-Furnished,27205
+Haryana,Urban,850,2,2,Semi-Furnished,23028
+Haryana,Metro,650,2,1,Unfurnished,20374
+Haryana,Urban,750,2,1,Semi-Furnished,19834
+Haryana,Semi-Urban,1400,4,2,Semi-Furnished,29267
+Haryana,Urban,1050,3,2,Fully-Furnished,30537
+Haryana,Metro,1600,4,2,Semi-Furnished,50272
+Haryana,Semi-Urban,850,2,2,Semi-Furnished,18562
+Haryana,Urban,1200,3,1,Semi-Furnished,30792
+Himachal Pradesh,Rural,450,1,1,Semi-Furnished,6238
+Himachal Pradesh,Rural,650,2,2,Unfurnished,8124
+Himachal Pradesh,Metro,1050,3,3,Fully-Furnished,27332
+Himachal Pradesh,Metro,550,1,1,Fully-Furnished,15102
+Himachal Pradesh,Urban,1200,3,1,Unfurnished,20532
+Himachal Pradesh,Rural,950,2,1,Semi-Furnished,11719
+Himachal Pradesh,Semi-Urban,1050,3,2,Semi-Furnished,16616
+Himachal Pradesh,Metro,1200,3,1,Fully-Furnished,30004
+Himachal Pradesh,Metro,950,2,1,Fully-Furnished,23165
+Himachal Pradesh,Metro,450,1,1,Unfurnished,9183
+Himachal Pradesh,Metro,1600,4,1,Unfurnished,34458
+Himachal Pradesh,Rural,550,1,1,Fully-Furnished,10391
+Himachal Pradesh,Urban,1200,3,2,Semi-Furnished,21843
+Himachal Pradesh,Metro,650,2,2,Unfurnished,14860
+Himachal Pradesh,Metro,850,2,2,Fully-Furnished,22934
+Jharkhand,Rural,1050,3,1,Unfurnished,11402
+Jharkhand,Urban,550,1,1,Fully-Furnished,12232
+Jharkhand,Semi-Urban,1600,4,1,Fully-Furnished,24742
+Jharkhand,Metro,950,2,2,Semi-Furnished,19909
+Jharkhand,Semi-Urban,550,1,1,Fully-Furnished,10546
+Jharkhand,Semi-Urban,450,1,1,Semi-Furnished,7864
+Jharkhand,Rural,550,1,1,Semi-Furnished,7757
+Jharkhand,Semi-Urban,1200,3,1,Semi-Furnished,16340
+Jharkhand,Semi-Urban,1600,4,3,Semi-Furnished,22092
+Jharkhand,Rural,1600,4,2,Semi-Furnished,18724
+Jharkhand,Urban,550,1,1,Semi-Furnished,10455
+Jharkhand,Rural,750,2,2,Fully-Furnished,11599
+Jharkhand,Rural,950,2,1,Semi-Furnished,11652
+Jharkhand,Semi-Urban,650,2,2,Unfurnished,8486
+Jharkhand,Semi-Urban,950,2,2,Fully-Furnished,15816
+Karnataka,Semi-Urban,1400,4,1,Fully-Furnished,42041
+Karnataka,Urban,550,1,1,Unfurnished,17974
+Karnataka,Rural,1200,3,3,Unfurnished,25014
+Karnataka,Rural,1200,3,2,Unfurnished,23790
+Karnataka,Semi-Urban,750,2,2,Fully-Furnished,22998
+Karnataka,Semi-Urban,1600,4,2,Semi-Furnished,44033
+Karnataka,Semi-Urban,1050,3,3,Semi-Furnished,29420
+Karnataka,Rural,850,2,2,Semi-Furnished,18272
+Karnataka,Metro,750,2,2,Unfurnished,31771
+Karnataka,Urban,750,2,1,Fully-Furnished,27991
+Karnataka,Semi-Urban,1600,4,3,Fully-Furnished,45479
+Karnataka,Metro,750,2,2,Unfurnished,30989
+Karnataka,Urban,850,2,1,Fully-Furnished,31093
+Karnataka,Urban,850,2,1,Unfurnished,27633
+Karnataka,Semi-Urban,650,2,2,Unfurnished,18387
+Kerala,Metro,1600,4,2,Semi-Furnished,51240
+Kerala,Rural,950,2,1,Unfurnished,14057
+Kerala,Rural,550,1,1,Unfurnished,8080
+Kerala,Rural,550,1,1,Fully-Furnished,12049
+Kerala,Metro,650,2,1,Fully-Furnished,25033
+Kerala,Semi-Urban,550,1,1,Unfurnished,9922
+Kerala,Rural,1600,4,3,Fully-Furnished,28082
+Kerala,Rural,1200,3,2,Semi-Furnished,21101
+Kerala,Rural,850,2,2,Fully-Furnished,15843
+Kerala,Metro,750,2,1,Semi-Furnished,25302
+Kerala,Metro,650,2,1,Unfurnished,20720
+Kerala,Metro,650,2,1,Semi-Furnished,22012
+Kerala,Rural,850,2,1,Unfurnished,12810
+Kerala,Semi-Urban,1200,3,1,Fully-Furnished,27098
+Kerala,Semi-Urban,1600,4,1,Semi-Furnished,32895
+Madhya Pradesh,Urban,650,2,2,Unfurnished,10246
+Madhya Pradesh,Metro,650,2,2,Fully-Furnished,17863
+Madhya Pradesh,Semi-Urban,1200,3,1,Semi-Furnished,18350
+Madhya Pradesh,Semi-Urban,1050,3,2,Fully-Furnished,18365
+Madhya Pradesh,Rural,1200,3,1,Fully-Furnished,15661
+Madhya Pradesh,Rural,950,2,2,Semi-Furnished,10532
+Madhya Pradesh,Metro,750,2,2,Fully-Furnished,20097
+Madhya Pradesh,Metro,850,2,2,Unfurnished,18032
+Madhya Pradesh,Urban,1200,3,3,Fully-Furnished,23205
+Madhya Pradesh,Semi-Urban,650,2,2,Semi-Furnished,11080
+Madhya Pradesh,Rural,550,1,1,Semi-Furnished,6832
+Madhya Pradesh,Rural,950,2,2,Fully-Furnished,12694
+Madhya Pradesh,Urban,950,2,2,Fully-Furnished,18814
+Madhya Pradesh,Semi-Urban,1050,3,3,Unfurnished,14691
+Madhya Pradesh,Metro,950,2,2,Semi-Furnished,20027
+Maharashtra,Rural,1400,4,1,Fully-Furnished,37680
+Maharashtra,Rural,1050,3,1,Unfurnished,25111
+Maharashtra,Semi-Urban,1600,4,2,Fully-Furnished,52205
+Maharashtra,Metro,750,2,2,Fully-Furnished,38893
+Maharashtra,Semi-Urban,1200,3,2,Unfurnished,35659
+Maharashtra,Urban,650,2,2,Fully-Furnished,27278
+Maharashtra,Rural,550,1,1,Unfurnished,13273
+Maharashtra,Metro,1200,3,1,Fully-Furnished,61804
+Maharashtra,Urban,1200,3,2,Fully-Furnished,48944
+Maharashtra,Semi-Urban,1050,3,2,Semi-Furnished,33399
+Maharashtra,Rural,1400,4,1,Semi-Furnished,34290
+Maharashtra,Urban,550,1,1,Semi-Furnished,22332
+Maharashtra,Rural,950,2,2,Semi-Furnished,24130
+Maharashtra,Metro,850,2,2,Fully-Furnished,44362
+Maharashtra,Rural,650,2,2,Fully-Furnished,19141
+Manipur,Semi-Urban,950,2,2,Fully-Furnished,14392
+Manipur,Rural,950,2,1,Fully-Furnished,11829
+Manipur,Rural,750,2,2,Unfurnished,7051
+Manipur,Rural,1050,3,2,Fully-Furnished,14682
+Manipur,Urban,1200,3,1,Unfurnished,17428
+Manipur,Semi-Urban,550,1,1,Semi-Furnished,6984
+Manipur,Rural,450,1,1,Fully-Furnished,7035
+Manipur,Rural,650,2,1,Semi-Furnished,8780
+Manipur,Semi-Urban,950,2,2,Fully-Furnished,14434
+Manipur,Metro,950,2,2,Semi-Furnished,19274
+Manipur,Semi-Urban,1200,3,3,Unfurnished,14784
+Manipur,Metro,750,2,2,Unfurnished,14229
+Manipur,Metro,1050,3,1,Fully-Furnished,23321
+Manipur,Metro,1200,3,1,Fully-Furnished,24833
+Manipur,Metro,450,1,1,Semi-Furnished,10150
+Meghalaya,Metro,850,2,2,Semi-Furnished,17747
+Meghalaya,Urban,750,2,2,Semi-Furnished,13409
+Meghalaya,Urban,650,2,1,Unfurnished,10698
+Meghalaya,Rural,1600,4,1,Semi-Furnished,18849
+Meghalaya,Urban,750,2,2,Fully-Furnished,14770
+Meghalaya,Rural,850,2,1,Semi-Furnished,10975
+Meghalaya,Semi-Urban,1400,4,1,Unfurnished,18464
+Meghalaya,Semi-Urban,1600,4,2,Fully-Furnished,25110
+Meghalaya,Rural,850,2,2,Semi-Furnished,9537
+Meghalaya,Rural,1200,3,1,Unfurnished,12141
+Meghalaya,Semi-Urban,1600,4,2,Fully-Furnished,23744
+Meghalaya,Metro,1050,3,2,Unfurnished,20904
+Meghalaya,Metro,1600,4,2,Semi-Furnished,33128
+Meghalaya,Urban,1600,4,2,Unfurnished,25103
+Meghalaya,Urban,1600,4,2,Fully-Furnished,28847
+Mizoram,Urban,550,1,1,Fully-Furnished,11423
+Mizoram,Metro,850,2,2,Unfurnished,15446
+Mizoram,Semi-Urban,650,2,1,Semi-Furnished,9409
+Mizoram,Rural,650,2,1,Unfurnished,7290
+Mizoram,Semi-Urban,1400,4,3,Semi-Furnished,19640
+Mizoram,Urban,850,2,2,Semi-Furnished,14228
+Mizoram,Semi-Urban,550,1,1,Semi-Furnished,8752
+Mizoram,Metro,650,2,1,Fully-Furnished,16123
+Mizoram,Rural,1400,4,2,Unfurnished,14699
+Mizoram,Rural,450,1,1,Semi-Furnished,5838
+Mizoram,Metro,1200,3,2,Fully-Furnished,25753
+Mizoram,Semi-Urban,1600,4,2,Fully-Furnished,23785
+Mizoram,Semi-Urban,550,1,1,Fully-Furnished,9258
+Mizoram,Rural,450,1,1,Fully-Furnished,8550
+Mizoram,Semi-Urban,1600,4,1,Fully-Furnished,21989
+Nagaland,Rural,850,2,2,Unfurnished,7406
+Nagaland,Metro,450,1,1,Semi-Furnished,9528
+Nagaland,Metro,550,1,1,Unfurnished,10397
+Nagaland,Urban,1050,3,2,Semi-Furnished,17473
+Nagaland,Rural,1600,4,1,Semi-Furnished,17361
+Nagaland,Metro,1200,3,3,Semi-Furnished,24143
+Nagaland,Semi-Urban,450,1,1,Fully-Furnished,8578
+Nagaland,Urban,1200,3,2,Unfurnished,18151
+Nagaland,Semi-Urban,550,1,1,Fully-Furnished,9532
+Nagaland,Semi-Urban,450,1,1,Semi-Furnished,6385
+Nagaland,Urban,550,1,1,Semi-Furnished,8287
+Nagaland,Urban,1600,4,1,Unfurnished,23811
+Nagaland,Semi-Urban,750,2,1,Fully-Furnished,12120
+Nagaland,Metro,1400,4,1,Fully-Furnished,28782
+Nagaland,Urban,950,2,1,Fully-Furnished,15905
+Odisha,Semi-Urban,650,2,1,Fully-Furnished,12813
+Odisha,Urban,550,1,1,Fully-Furnished,13524
+Odisha,Metro,650,2,1,Semi-Furnished,16792
+Odisha,Urban,1600,4,2,Unfurnished,27356
+Odisha,Semi-Urban,450,1,1,Unfurnished,6919
+Odisha,Rural,1400,4,1,Fully-Furnished,19230
+Odisha,Rural,1200,3,2,Fully-Furnished,17515
+Odisha,Metro,1200,3,3,Unfurnished,27336
+Odisha,Metro,1400,4,2,Semi-Furnished,33117
+Odisha,Metro,450,1,1,Semi-Furnished,12010
+Odisha,Rural,1050,3,1,Semi-Furnished,14408
+Odisha,Rural,550,1,1,Unfurnished,5609
+Odisha,Urban,550,1,1,Unfurnished,8813
+Odisha,Semi-Urban,1050,3,3,Fully-Furnished,18703
+Odisha,Rural,1400,4,3,Semi-Furnished,17303
+Punjab,Metro,1400,4,1,Semi-Furnished,38184
+Punjab,Urban,1050,3,2,Semi-Furnished,23216
+Punjab,Rural,550,1,1,Semi-Furnished,8314
+Punjab,Semi-Urban,850,2,2,Unfurnished,14646
+Punjab,Rural,550,1,1,Unfurnished,7643
+Punjab,Metro,550,1,1,Semi-Furnished,14567
+Punjab,Semi-Urban,650,2,2,Unfurnished,11561
+Punjab,Semi-Urban,550,1,1,Semi-Furnished,10144
+Punjab,Rural,450,1,1,Semi-Furnished,7589
+Punjab,Semi-Urban,950,2,1,Fully-Furnished,19219
+Punjab,Urban,650,2,2,Unfurnished,14435
+Punjab,Metro,950,2,2,Semi-Furnished,24965
+Punjab,Semi-Urban,1600,4,1,Semi-Furnished,29270
+Punjab,Metro,1600,4,2,Unfurnished,40809
+Punjab,Semi-Urban,850,2,2,Semi-Furnished,14752
+Rajasthan,Urban,650,2,2,Fully-Furnished,15720
+Rajasthan,Metro,650,2,1,Unfurnished,16048
+Rajasthan,Urban,1050,3,2,Semi-Furnished,20998
+Rajasthan,Urban,950,2,2,Fully-Furnished,20364
+Rajasthan,Metro,450,1,1,Unfurnished,9682
+Rajasthan,Metro,550,1,1,Semi-Furnished,13847
+Rajasthan,Rural,1200,3,3,Semi-Furnished,15868
+Rajasthan,Semi-Urban,750,2,2,Unfurnished,11306
+Rajasthan,Rural,550,1,1,Semi-Furnished,8168
+Rajasthan,Rural,1400,4,2,Unfurnished,16891
+Rajasthan,Rural,1600,4,1,Unfurnished,18778
+Rajasthan,Semi-Urban,750,2,1,Semi-Furnished,12692
+Rajasthan,Semi-Urban,550,1,1,Unfurnished,8058
+Rajasthan,Rural,650,2,1,Semi-Furnished,9830
+Rajasthan,Urban,1400,4,3,Fully-Furnished,30551
+Sikkim,Semi-Urban,550,1,1,Semi-Furnished,9424
+Sikkim,Metro,1050,3,1,Semi-Furnished,24496
+Sikkim,Metro,950,2,2,Semi-Furnished,20964
+Sikkim,Rural,1050,3,2,Unfurnished,11649
+Sikkim,Metro,950,2,1,Fully-Furnished,22732
+Sikkim,Semi-Urban,550,1,1,Semi-Furnished,9389
+Sikkim,Metro,750,2,2,Fully-Furnished,18970
+Sikkim,Metro,1050,3,2,Fully-Furnished,25305
+Sikkim,Urban,950,2,1,Unfurnished,15345
+Sikkim,Metro,1400,4,3,Unfurnished,30335
+Sikkim,Semi-Urban,950,2,1,Unfurnished,11850
+Sikkim,Urban,850,2,1,Unfurnished,14133
+Sikkim,Urban,550,1,1,Unfurnished,9648
+Sikkim,Rural,1200,3,3,Fully-Furnished,16499
+Sikkim,Semi-Urban,950,2,1,Semi-Furnished,13279
+Tamil Nadu,Rural,1200,3,2,Semi-Furnished,22711
+Tamil Nadu,Metro,950,2,2,Unfurnished,32510
+Tamil Nadu,Rural,1200,3,1,Unfurnished,20755
+Tamil Nadu,Semi-Urban,550,1,1,Fully-Furnished,16269
+Tamil Nadu,Metro,1600,4,3,Fully-Furnished,59287
+Tamil Nadu,Rural,1600,4,3,Fully-Furnished,32334
+Tamil Nadu,Metro,1200,3,3,Fully-Furnished,44885
+Tamil Nadu,Semi-Urban,1600,4,2,Fully-Furnished,38808
+Tamil Nadu,Metro,1200,3,1,Semi-Furnished,43962
+Tamil Nadu,Metro,1400,4,1,Unfurnished,49007
+Tamil Nadu,Rural,1200,3,3,Fully-Furnished,24748
+Tamil Nadu,Urban,950,2,2,Semi-Furnished,27043
+Tamil Nadu,Rural,950,2,2,Unfurnished,16866
+Tamil Nadu,Semi-Urban,550,1,1,Semi-Furnished,12693
+Tamil Nadu,Rural,850,2,2,Fully-Furnished,18994
+Telangana,Urban,950,2,1,Fully-Furnished,32459
+Telangana,Urban,950,2,2,Fully-Furnished,32530
+Telangana,Rural,650,2,2,Fully-Furnished,17341
+Telangana,Metro,850,2,2,Semi-Furnished,34757
+Telangana,Semi-Urban,650,2,2,Unfurnished,16883
+Telangana,Rural,1400,4,2,Unfurnished,27262
+Telangana,Semi-Urban,650,2,1,Semi-Furnished,19000
+Telangana,Rural,750,2,1,Unfurnished,13917
+Telangana,Metro,850,2,1,Fully-Furnished,37018
+Telangana,Metro,950,2,2,Unfurnished,36803
+Telangana,Rural,650,2,1,Unfurnished,13622
+Telangana,Urban,1200,3,1,Semi-Furnished,37846
+Telangana,Urban,1200,3,3,Semi-Furnished,38640
+Telangana,Rural,750,2,2,Unfurnished,14233
+Telangana,Rural,750,2,2,Fully-Furnished,19039
+Tripura,Rural,1200,3,2,Semi-Furnished,13169
+Tripura,Rural,650,2,1,Fully-Furnished,9463
+Tripura,Semi-Urban,450,1,1,Fully-Furnished,8804
+Tripura,Semi-Urban,1400,4,1,Fully-Furnished,21672
+Tripura,Metro,850,2,1,Unfurnished,14818
+Tripura,Rural,1400,4,1,Semi-Furnished,14767
+Tripura,Urban,1200,3,2,Unfurnished,17249
+Tripura,Metro,1050,3,3,Semi-Furnished,20362
+Tripura,Rural,550,1,1,Semi-Furnished,5919
+Tripura,Metro,950,2,1,Fully-Furnished,20651
+Tripura,Semi-Urban,650,2,1,Unfurnished,7827
+Tripura,Rural,650,2,2,Semi-Furnished,8440
+Tripura,Metro,550,1,1,Unfurnished,9104
+Tripura,Urban,650,2,2,Fully-Furnished,13546
+Tripura,Rural,550,1,1,Semi-Furnished,5946
+Uttar Pradesh,Semi-Urban,550,1,1,Unfurnished,6648
+Uttar Pradesh,Rural,1600,4,2,Unfurnished,16667
+Uttar Pradesh,Rural,1600,4,3,Unfurnished,17734
+Uttar Pradesh,Urban,650,2,2,Semi-Furnished,11603
+Uttar Pradesh,Semi-Urban,750,2,2,Semi-Furnished,11283
+Uttar Pradesh,Metro,1400,4,2,Unfurnished,30432
+Uttar Pradesh,Metro,1050,3,2,Unfurnished,22411
+Uttar Pradesh,Rural,950,2,2,Fully-Furnished,12513
+Uttar Pradesh,Semi-Urban,550,1,1,Semi-Furnished,8153
+Uttar Pradesh,Metro,1600,4,2,Unfurnished,32210
+Uttar Pradesh,Semi-Urban,1400,4,2,Fully-Furnished,22538
+Uttar Pradesh,Rural,1200,3,1,Unfurnished,12209
+Uttar Pradesh,Rural,450,1,1,Semi-Furnished,5692
+Uttar Pradesh,Metro,750,2,1,Semi-Furnished,18061
+Uttar Pradesh,Semi-Urban,1400,4,2,Fully-Furnished,23149
+Uttarakhand,Semi-Urban,450,1,1,Fully-Furnished,9651
+Uttarakhand,Semi-Urban,950,2,1,Fully-Furnished,17339
+Uttarakhand,Semi-Urban,550,1,1,Semi-Furnished,9434
+Uttarakhand,Rural,1200,3,2,Semi-Furnished,17014
+Uttarakhand,Urban,1200,3,2,Semi-Furnished,24592
+Uttarakhand,Semi-Urban,550,1,1,Fully-Furnished,11409
+Uttarakhand,Metro,1050,3,3,Unfurnished,24957
+Uttarakhand,Semi-Urban,950,2,1,Unfurnished,13831
+Uttarakhand,Semi-Urban,850,2,2,Fully-Furnished,16849
+Uttarakhand,Rural,650,2,2,Semi-Furnished,9655
+Uttarakhand,Metro,950,2,2,Semi-Furnished,22822
+Uttarakhand,Metro,550,1,1,Fully-Furnished,16245
+Uttarakhand,Rural,950,2,2,Fully-Furnished,15011
+Uttarakhand,Urban,450,1,1,Unfurnished,8938
+Uttarakhand,Rural,450,1,1,Unfurnished,4457
+West Bengal,Urban,950,2,2,Semi-Furnished,23444
+West Bengal,Metro,1600,4,1,Fully-Furnished,49021
+West Bengal,Semi-Urban,950,2,2,Unfurnished,17375
+West Bengal,Urban,1400,4,2,Semi-Furnished,33143
+West Bengal,Semi-Urban,750,2,1,Unfurnished,14506
+West Bengal,Urban,1200,3,3,Semi-Furnished,29370
+West Bengal,Metro,850,2,2,Fully-Furnished,27513
+West Bengal,Urban,1600,4,2,Fully-Furnished,40376
+West Bengal,Rural,750,2,1,Unfurnished,11746
+West Bengal,Metro,1200,3,1,Fully-Furnished,37611
+West Bengal,Metro,950,2,2,Fully-Furnished,29332
+West Bengal,Semi-Urban,850,2,1,Fully-Furnished,19553
+West Bengal,Urban,950,2,2,Unfurnished,20248
+West Bengal,Urban,650,2,1,Semi-Furnished,15553
+West Bengal,Semi-Urban,1400,4,3,Semi-Furnished,27857
+Jammu and Kashmir,Urban,1600,4,1,Unfurnished,27633
+Jammu and Kashmir,Rural,1200,3,3,Semi-Furnished,15875
+Jammu and Kashmir,Rural,1600,4,1,Unfurnished,19391
+Jammu and Kashmir,Semi-Urban,550,1,1,Semi-Furnished,9054
+Jammu and Kashmir,Semi-Urban,650,2,2,Fully-Furnished,13503
+Jammu and Kashmir,Urban,650,2,2,Fully-Furnished,16115
+Jammu and Kashmir,Metro,550,1,1,Fully-Furnished,14538
+Jammu and Kashmir,Semi-Urban,650,2,1,Semi-Furnished,12214
+Jammu and Kashmir,Urban,950,2,2,Semi-Furnished,18482
+Jammu and Kashmir,Metro,850,2,1,Fully-Furnished,23033
+Jammu and Kashmir,Semi-Urban,650,2,2,Fully-Furnished,13392
+Jammu and Kashmir,Metro,1400,4,1,Fully-Furnished,35728
+Jammu and Kashmir,Urban,650,2,2,Fully-Furnished,16097
+Jammu and Kashmir,Semi-Urban,1600,4,1,Unfurnished,22366
+Jammu and Kashmir,Metro,1600,4,2,Fully-Furnished,38131
+Ladakh,Rural,1600,4,1,Semi-Furnished,19760
+Ladakh,Semi-Urban,850,2,2,Unfurnished,12168
+Ladakh,Rural,850,2,2,Unfurnished,9550
+Ladakh,Metro,650,2,2,Semi-Furnished,15321
+Ladakh,Rural,750,2,2,Fully-Furnished,11094
+Ladakh,Semi-Urban,950,2,2,Semi-Furnished,13407
+Ladakh,Semi-Urban,1400,4,3,Unfurnished,19333
+Ladakh,Urban,1200,3,1,Semi-Furnished,21220
+Ladakh,Urban,650,2,1,Unfurnished,10694
+Ladakh,Rural,1600,4,2,Unfurnished,18411
+Ladakh,Urban,950,2,2,Fully-Furnished,18440
+Ladakh,Urban,650,2,2,Fully-Furnished,14556
+Ladakh,Rural,850,2,2,Unfurnished,8324
+Ladakh,Rural,1400,4,2,Unfurnished,15200
+Ladakh,Semi-Urban,450,1,1,Unfurnished,5616
+Puducherry,Rural,1600,4,2,Semi-Furnished,23839
+Puducherry,Metro,550,1,1,Semi-Furnished,15359
+Puducherry,Semi-Urban,950,2,2,Semi-Furnished,17032
+Puducherry,Rural,450,1,1,Fully-Furnished,9780
+Puducherry,Urban,950,2,2,Semi-Furnished,20700
+Puducherry,Rural,1400,4,2,Fully-Furnished,23032
+Puducherry,Metro,650,2,1,Semi-Furnished,19319
+Puducherry,Semi-Urban,1400,4,2,Unfurnished,24687
+Puducherry,Rural,1400,4,1,Unfurnished,19039
+Puducherry,Urban,950,2,2,Fully-Furnished,23485
+Puducherry,Urban,1600,4,3,Unfurnished,34071
+Puducherry,Semi-Urban,650,2,2,Fully-Furnished,15894
+Puducherry,Semi-Urban,1600,4,2,Fully-Furnished,32516
+Puducherry,Rural,1600,4,2,Semi-Furnished,24410
+Puducherry,Metro,950,2,2,Fully-Furnished,28189
+Chandigarh,Rural,1600,4,2,Fully-Furnished,31326
+Chandigarh,Metro,1600,4,2,Semi-Furnished,56400
+Chandigarh,Urban,450,1,1,Fully-Furnished,15283
+Chandigarh,Urban,1400,4,3,Semi-Furnished,38402
+Chandigarh,Urban,450,1,1,Fully-Furnished,16241
+Chandigarh,Metro,750,2,1,Semi-Furnished,26542
+Chandigarh,Rural,650,2,2,Fully-Furnished,14277
+Chandigarh,Rural,1400,4,3,Semi-Furnished,26447
+Chandigarh,Metro,650,2,2,Unfurnished,22428
+Chandigarh,Semi-Urban,1200,3,3,Semi-Furnished,27182
+Chandigarh,Urban,1200,3,3,Semi-Furnished,33418
+Chandigarh,Semi-Urban,850,2,2,Semi-Furnished,19213
+Chandigarh,Urban,850,2,2,Semi-Furnished,23360
+Chandigarh,Semi-Urban,850,2,1,Fully-Furnished,22263
+Chandigarh,Rural,950,2,2,Semi-Furnished,17327
+Andaman and Nicobar,Semi-Urban,850,2,1,Fully-Furnished,16765
+Andaman and Nicobar,Rural,1050,3,2,Unfurnished,12674
+Andaman and Nicobar,Metro,850,2,1,Semi-Furnished,22072
+Andaman and Nicobar,Rural,850,2,2,Unfurnished,9573
+Andaman and Nicobar,Semi-Urban,1400,4,2,Unfurnished,21143
+Andaman and Nicobar,Urban,750,2,1,Fully-Furnished,18353
+Andaman and Nicobar,Urban,750,2,1,Unfurnished,13846
+Andaman and Nicobar,Semi-Urban,1200,3,1,Fully-Furnished,22438
+Andaman and Nicobar,Urban,450,1,1,Fully-Furnished,12602
+Andaman and Nicobar,Urban,1050,3,2,Semi-Furnished,21632
+Andaman and Nicobar,Urban,850,2,2,Semi-Furnished,17422
+Andaman and Nicobar,Metro,550,1,1,Fully-Furnished,16115
+Andaman and Nicobar,Urban,1400,4,1,Unfurnished,26255
+Andaman and Nicobar,Urban,450,1,1,Semi-Furnished,10313
+Andaman and Nicobar,Rural,650,2,2,Unfurnished,7258
+Dadra and Nagar Haveli and Daman and Diu,Semi-Urban,1600,4,3,Unfurnished,24101
+Dadra and Nagar Haveli and Daman and Diu,Semi-Urban,850,2,2,Fully-Furnished,15812
+Dadra and Nagar Haveli and Daman and Diu,Rural,650,2,2,Semi-Furnished,8908
+Dadra and Nagar Haveli and Daman and Diu,Urban,550,1,1,Semi-Furnished,10082
+Dadra and Nagar Haveli and Daman and Diu,Rural,850,2,1,Unfurnished,10158
+Dadra and Nagar Haveli and Daman and Diu,Semi-Urban,850,2,2,Fully-Furnished,16250
+Dadra and Nagar Haveli and Daman and Diu,Urban,650,2,2,Fully-Furnished,16087
+Dadra and Nagar Haveli and Daman and Diu,Rural,1050,3,3,Semi-Furnished,13127
+Dadra and Nagar Haveli and Daman and Diu,Rural,550,1,1,Unfurnished,5237
+Dadra and Nagar Haveli and Daman and Diu,Rural,950,2,1,Unfurnished,10084
+Dadra and Nagar Haveli and Daman and Diu,Rural,750,2,2,Semi-Furnished,11203
+Dadra and Nagar Haveli and Daman and Diu,Semi-Urban,850,2,2,Fully-Furnished,15873
+Dadra and Nagar Haveli and Daman and Diu,Metro,850,2,2,Fully-Furnished,21558
+Dadra and Nagar Haveli and Daman and Diu,Metro,550,1,1,Semi-Furnished,12853
+Dadra and Nagar Haveli and Daman and Diu,Urban,1050,3,3,Fully-Furnished,22826
+Lakshadweep,Semi-Urban,550,1,1,Fully-Furnished,11536
+Lakshadweep,Semi-Urban,950,2,2,Unfurnished,12088
+Lakshadweep,Urban,1200,3,1,Semi-Furnished,21831
+Lakshadweep,Semi-Urban,1050,3,3,Semi-Furnished,16811
+Lakshadweep,Urban,750,2,2,Unfurnished,12576
+Lakshadweep,Rural,1400,4,2,Unfurnished,16638
+Lakshadweep,Metro,450,1,1,Fully-Furnished,13539
+Lakshadweep,Urban,1600,4,3,Unfurnished,25736
+Lakshadweep,Semi-Urban,1400,4,2,Unfurnished,20073
+Lakshadweep,Urban,1600,4,2,Unfurnished,27240
+Lakshadweep,Rural,450,1,1,Semi-Furnished,5550
+Lakshadweep,Rural,1200,3,3,Unfurnished,13224
+Lakshadweep,Rural,850,2,1,Semi-Furnished,10161
+Lakshadweep,Metro,750,2,2,Unfurnished,14742
+Lakshadweep,Rural,950,2,1,Fully-Furnished,12603
