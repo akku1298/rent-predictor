@@ -1,3 +1,5 @@
+import os
+
 import pandas as pd
 import streamlit as st
 from sklearn.model_selection import train_test_split
@@ -52,8 +54,24 @@ if st.button("Predict Rent", type="primary"):
             X_new[c] = 0
     X_new = X_new[feature_cols]
     pred = model.predict(X_new)[0]
-    st.success(f"Estimated monthly rent: Rs {int(pred):,}")
+    st.session_state["pred"] = float(pred)
+    st.session_state["context"] = f"{bedrooms}BHK {area}sqft in {state}, {city_tier}, {furnishing}"
+    st.session_state["state_avg"] = int(df[df["state"] == state]["rent"].mean())
+    st.session_state["state_name"] = state
 
-    # show state average for context
-    avg = int(df[df["state"] == state]["rent"].mean())
-    st.info(f"Average rent in {state} (dataset): Rs {avg:,}")
+if "pred" in st.session_state:
+    st.success(f"Estimated monthly rent: Rs {int(st.session_state['pred']):,}")
+    st.info(f"Average rent in {st.session_state['state_name']} (dataset): Rs {st.session_state['state_avg']:,}")
+
+    if st.button("Explain with AI"):
+        with st.spinner("Asking Gemini..."):
+            try:
+                try:
+                    if "GEMINI_API_KEY" in st.secrets:
+                        os.environ["GEMINI_API_KEY"] = st.secrets["GEMINI_API_KEY"]
+                except Exception:
+                    pass  # no secrets file, fall back to env var
+                from llm import chat
+                st.write(chat(f"Explain Rs {int(st.session_state['pred'])} rent for {st.session_state['context']} in 3 bullets."))
+            except Exception as e:
+                st.error(f"AI error: {e}")
